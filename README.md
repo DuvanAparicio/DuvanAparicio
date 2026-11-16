@@ -1,4 +1,7 @@
-## Hi there 👋
+## Importancia de la Marca Digital en Ciberseguridad 
+## El perfil estudiantil evolutivo
+## Sincronización del Ecosistema
+
 
 <!--
 **DuvanAparicio/DuvanAparicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
