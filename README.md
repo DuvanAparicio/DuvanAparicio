@@ -1,9 +1,9 @@
 ## 1. Marca Digital en la era Digital | Perfil profesional
-## "Construyendo una huella digital segura, ética e impactante desde la Universidad Tecnológica de Panamá 
-## (UTP)."* 
+### "Construyendo una huella digital segura, ética e impactante desde la Universidad Tecnológica de Panamá 
+### (UTP)."* 
 ## 🌐 1. Importancia de la Marca Digital (Sobre mí) 
-## ¡Hola! 👋 Soy **Duvan Aparicio**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la 
-**Universidad Tecnológica de Panamá (UTP)**. 
+¡Hola! 👋 Soy **Duvan Aparicio**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la 
+Universidad Tecnológica de Panamá (UTP). 
 ## Entiendo la marca personal no como un currículum estático, sino como la demostración activa de mi aprendizaje 
 ## continuo, la ética profesional en el manejo de la información y la colaboración en entornos digitales. 
 * 🎓 **Institución:** Universidad Tecnológica de Panamá (UTP) - FISC 
@@ -15,8 +15,8 @@ reutilizables.
  --
 
 ## 2. Creación de Portafolio Profesional Digital (Habilidades y Proyectos) 
-## Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avances prácticos y laboratorios 
-## desarrollados durante la carrera: 
+Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avances prácticos y laboratorios 
+desarrollados durante la carrera: 
 #### 🛠️ Tecnologías y Herramientas en Proceso de Aprendizaje: - **Sistemas Operativos:** Linux (Ubuntu/Debian), Windows Server - **Redes & Seguridad:** Modelo OSI/TCP-IP, Wireshark, Cisco Packet Tracer - **Programación & Scripting:** Python (Fundamentos), Bash, Markdown - **Herramientas Colaborativas:** Git, GitHub, VS Code
 ### 📁 Proyectos y Laboratorios Académicos (UTP): - 🔹 **[Configuración de Perfil Profesional y Marca Digital]:** Proyecto parcial evaluado en la asignatura 
 Sistemas Colaborativos (UTP, 2026). - 🔹 **[Laboratorio de Simulación de Redes Seguras]:** *(En desarrollo)* Captura y análisis de paquetes en 
