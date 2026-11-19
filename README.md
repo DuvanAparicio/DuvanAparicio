@@ -27,9 +27,11 @@ Python/Bash para verificación de archivos.
 ### 💼 3. CV en LinkedIn y Canales Digitales 
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales: 
-* 👔 **Perfil Profesional en LinkedIn:** [Enlace a Perfil de LinkedIn]
+* 👔 **Perfil Profesional en LinkedIn:** https://pa.linkedin.com/in/duvan-aparicio-9870a5436 
 * 📄 **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado] 
-* 📬 **Correo Institucional UTP:** nombre.apellido@utp.ac.pa --- 
+* 📬 **Correo Institucional UTP:** duvan.aparicio@utp.ac.pa
+  
+ --- 
 <p align="center"> 
 <i>"La seguridad en la red empieza con una identidad digital transparente, responsable y colaborativa."</i> 
 </p>
