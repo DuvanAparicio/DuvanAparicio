@@ -20,7 +20,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 #### 🛠️ Tecnologías y Herramientas en Proceso de Aprendizaje:
 * **Sistemas Operativos:** Linux (Debian, Zorin OS, CentOS, Kali Linux), Windows Server
 * **Redes & Seguridad:** Modelo OSI/TCP-IP, Wireshark, Cisco Packet Tracer, Nmap
-* **Programación & Scripting:** Java, C/C++, Python (Fundamentos), Bash, Markdown
+* **Programación & Scripting:** Java, C/C++, Bash, 
 * **Herramientas Colaborativas:** Git, GitHub, VS Code
 
 #### 📁 Proyectos y Laboratorios Académicos (UTP):
