@@ -33,7 +33,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales: 
 * 👔 **Perfil Profesional en LinkedIn:** https://pa.linkedin.com/in/duvan-aparicio-9870a5436 
-* 📄 **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado] 
+* 📄 **Curriculum Vitae Digital (PDF):** https://github.com/DuvanAparicio/DuvanAparicio/blob/main/CV_Duvan_Aparicio.pdf 
 * 📬 **Correo Institucional UTP:** duvan.aparicio@utp.ac.pa
   
  --- 
