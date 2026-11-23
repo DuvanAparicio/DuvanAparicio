@@ -13,15 +13,20 @@ reutilizables.
 
  --- 
  
-### 💻 2. Creación de Portafolio Profesional Digital (Habilidades y Proyectos) 
-Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avances prácticos y laboratorios 
-desarrollados durante la carrera: 
-#### 🛠️ Tecnologías y Herramientas en Proceso de Aprendizaje: - **Sistemas Operativos:** Linux (Ubuntu/Debian), Windows Server - **Redes & Seguridad:** Modelo OSI/TCP-IP, Wireshark, Cisco Packet Tracer - **Programación & Scripting:** Python (Fundamentos), Bash, Markdown - **Herramientas Colaborativas:** Git, GitHub, VS Code
+### 💻 2. Creación de Portafolio Profesional Digital (Habilidades y Proyectos)
 
-#### 📁 Proyectos y Laboratorios Académicos (UTP): - 🔹 **[Configuración de Perfil Profesional y Marca Digital]:** Proyecto parcial evaluado en la asignatura 
-Sistemas Colaborativos (UTP, 2026). - 🔹 **[Laboratorio de Simulación de Redes Seguras]:** *(En desarrollo)* Captura y análisis de paquetes en 
-redes locales. - 🔹 **[Scripts de Automatización para Tareas Administrativas]:** *(Próximamente)* Herramientas en 
-Python/Bash para verificación de archivos. 
+Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avances prácticos y laboratorios desarrollados durante la carrera:
+
+#### 🛠️ Tecnologías y Herramientas en Proceso de Aprendizaje:
+* **Sistemas Operativos:** Linux (Debian, Zorin OS, CentOS, Kali Linux), Windows Server
+* **Redes & Seguridad:** Modelo OSI/TCP-IP, Wireshark, Cisco Packet Tracer, Nmap
+* **Programación & Scripting:** Java, C/C++, Python (Fundamentos), Bash, Markdown
+* **Herramientas Colaborativas:** Git, GitHub, VS Code
+
+#### 📁 Proyectos y Laboratorios Académicos (UTP):
+* 🔹 **(https://github.com/DuvanAparicio/DuvanAparicio):** Proyecto parcial evaluado en la asignatura Sistemas Colaborativos (UTP, 2026).
+* 🔹 **Laboratorios de Sistemas Operativos II (Linux):** Administración de sistemas, permisos y gestión en entornos Linux ([Lab 1](https://github.com/DuvanAparicio/utp-GSO_Lab1) | [Lab 2](https://github.com/DuvanAparicio/utp-GSO_Lab2) | [Lab 3](https://github.com/DuvanAparicio/utp-GSO-Lab3)).
+* 🔹 **[Cerberus-Sentinel](https://github.com/DuvanAparicio/Cerberus-Sentinel):** *(En desarrollo)* Proyecto académico enfocado en seguridad, autenticación y control de acceso.
 
 --- 
 ### 💼 3. CV en LinkedIn y Canales Digitales 
